@@ -1,7 +1,7 @@
-pipeline {
+REPLACE_WITH_YOUR_PROJECT_IDpipeline {
 
   environment {
-    PROJECT = "REPLACE_WITH_YOUR_PROJECT_ID"
+    PROJECT = "qwiklabs-gcp-02-2f26569567c7"
     APP_NAME = "gceme"
     FE_SVC_NAME = "${APP_NAME}-frontend"
     CLUSTER = "jenkins-cd"
